@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ian 小黑实物场景图"
+  short_description: "生成小黑 + 真实物件 + 留白叙事的正文图或长卷故事图"
+  default_prompt: "Use $ian-xiaohei-scenes to 为这篇中文内容设计并生成几张小黑 + 真实物件 + 物理动作的 16:9 正文配图；如果用户要求彩蛋模式或长卷故事图，则生成超横版小黑长卷故事图。"
+policy:
+  allow_implicit_invocation: true

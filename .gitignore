@@ -1,0 +1,10 @@
+.DS_Store
+*.tmp
+*.bak
+*.swp
+
+node_modules/
+dist/
+build/
+generated/
+
