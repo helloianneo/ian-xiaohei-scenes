@@ -252,33 +252,22 @@ ian-xiaohei-scenes/
 
 ## 关于作者
 
-**Ian (伊恩)** — 产品设计师 / 一人公司实践者 / AI Builder
+**Ian (伊恩)** — 产品设计师 / AI Builder
 
-用 AI 团队打造一人公司。
+GitHub 万星、Dribbble 万粉，用 AI 做好玩的东西，探索 AI + 自由。
 
-- GitHub: [helloianneo](https://github.com/helloianneo)
-- X/Twitter: [@ianneo_ai](https://x.com/ianneo_ai)
-- 网站: [www.ianneo.xyz](https://www.ianneo.xyz)
-- 微信: `ianneoxyz`
-- 邮箱: hello.neoc@gmail.com
+- 网站：[ianneo.xyz](https://www.ianneo.xyz)
+- X/Twitter：[@ianneo_ai](https://x.com/ianneo_ai)
+- GitHub：[helloianneo](https://github.com/helloianneo)
+- Indie Builders 社群：[ianneo.xyz/ib](https://ianneo.xyz/ib)
 
----
-
-## 继续探索
-
-这套小黑实物场景图 Skill，只是我用 AI 搭建个人生产系统里的一个小工具。
-
-如果你也在用 AI 做内容、知识库、工作流或产品化，可以继续看我的网站：[www.ianneo.xyz](https://www.ianneo.xyz)。
-
-只想先观察，可以关注我的 [X/Twitter](https://x.com/ianneo_ai)。
-
-想了解 Indie Builders Club，加微信：`ianneoxyz`，备注「OPC」。
+交流合作加我微信，备注来意：
 
 <p>
   <img src="assets/ian-wechat-qr.jpg" alt="Ian 微信二维码" width="120">
 </p>
 
-不方便扫码也可以搜索微信：`ianneoxyz`。
+扫不了就搜微信号 `ianneoxyz`。
 
 ---
 
